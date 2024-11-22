@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-I'm Shridharan from UK, and I do projects. I really enjoy learning languages and working with Java. I also enjoy web development, learning and working with javascript frameworks.
+"Passionate graduate who loves building projects, exploring new technologies, and solving real-world problems through code. Always learning, always creating!"
 
-Please check out my OpenAI supported AI SaaS web app - Luffy
+
